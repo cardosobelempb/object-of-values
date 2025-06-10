@@ -11,6 +11,8 @@ shared/
 └── utils/
     └── value-object.util.ts
 
+
+
 ```
 - interfaces/: Contém interfaces que definem contratos para os Value Objects, promovendo consistência e reutilização de código.
 - utils/: Inclui utilitários auxiliares que facilitam operações comuns com Value Objects, como comparação e validação.
